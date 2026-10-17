@@ -1,0 +1,3 @@
+index=demo_windows EventCode=4728 OR EventCode=4732
+| stats count by _time, user, Group_Name, src_user`:wq
+
