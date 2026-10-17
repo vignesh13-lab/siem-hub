@@ -1,0 +1,5 @@
+# Every change needs approval from the owners below
+*                    @vignesh13-lab
+/docs/detections/    @vignesh13-lab
+/docs/sops/          @vignesh13-lab
+/content/spl/        @vignesh13-lab
